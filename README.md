@@ -5,6 +5,4 @@ I used this for all my new NodeMCUs to preflash them only once
 After falshing this firmware you can upload any bin file for a custom firmware!
 
 
-```
-doc/frontend.png
-```
+![Alt text](doc/frontend.png?raw=true "Frontend")
